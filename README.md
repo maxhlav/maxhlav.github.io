@@ -13,8 +13,8 @@
 <figure style="float:right;width:25%"><img src="LaurenCrantonHeller.png" alt="" style="width:100%">
 
 
-<h1><a href="README.md">Lauren Cranton Heller</a></h1>
-<p>visiting assistant professor at the Pomona College<br/>
+<h1><a href="README.md">Max Hlavacek</a></h1>
+<p>visiting assistant professor at Pomona College<br/>
 student of Matthias Beck</p>
 <p><i>
 e-mail: <a href="mailto:mhap2023@pomona.edu">mhap2023@pomona.edu</a><br/>
