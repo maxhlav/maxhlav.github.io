@@ -1,3 +1,12 @@
+<title>max hlavacek</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/web/20230610233954cs_/https://math.berkeley.edu/~mhlava/gradnew.css">
+<link rel="stylesheet" href="https://web.archive.org/web/20230610233954cs_/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="text/javascript" id="MathJax-script" async src="https://web.archive.org/web/20230610233954js_/https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+</head>
+
 <div class="header">
 	  <h1>max hlavacek</h1>
 	  <p>UC Berkeley</p>
