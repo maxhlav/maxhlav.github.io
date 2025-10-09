@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+
 
 <figure style="float:right;width:25%"><img src="LaurenCrantonHeller.png" alt="" style="width:100%">
 
@@ -30,6 +30,6 @@ lattice point enumeration, Ehrhart theory</p>
 
 <hr width="100%"/><hr width="100%"/>
 
-</body>
+
 
 
