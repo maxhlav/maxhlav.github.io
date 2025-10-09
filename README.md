@@ -1,6 +1,4 @@
 
-<!DOCTYPE html>
-<html>
 
 <head>
 <meta charset="utf-8">
@@ -34,4 +32,4 @@ lattice point enumeration, Ehrhart theory</p>
 
 </body>
 
-</html>
+
