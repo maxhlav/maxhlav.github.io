@@ -28,7 +28,7 @@ lattice point enumeration, Ehrhart theory</p>
 
 <hr width="100%"/><hr width="100%"/>
 
-<h2 style="color:dimgrey"><a href="papers.html">papers</a> | <a href="talks.html">talks</a> | <a href="conferences.html">conferences</a> | <a href="https://github.com/lcrantonh">code</a> | <a href="teaching.html">teaching</a></h2>
+<h2 style="color:dimgrey"><a href="papers.html">papers</a> | <a href="talks.html">talks</a> | <a href="conferences.html">conferences</a> | <a href="https://github.com/lcrantonh">code</a> </h2>
 
 <hr width="100%"/><hr width="100%"/>
 
