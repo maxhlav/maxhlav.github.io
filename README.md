@@ -21,7 +21,7 @@ Department of Mathematics<br/>
 Pomona College<br/>
 
 </i></p>
-<p>interested discrete geometry and geometric combinatorics<br/>
+<p>interested in discrete geometry and geometric combinatorics<br/>
 lattice point enumeration, Ehrhart theory</p>
 
 <hr width="100%"/><hr width="100%"/>
