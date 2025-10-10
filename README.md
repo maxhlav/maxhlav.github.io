@@ -5,10 +5,7 @@
 
 <link rel="stylesheet" href="styles.css">
 </head>
-
-
-
-
+<figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%"></figure>
 
 
 <h1><a href="README.md">Max Hlavacek</a></h1>
@@ -33,6 +30,6 @@ Pomona College<br/>
 
 <hr width="100%"/><hr width="100%"/>
 
-<figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%">
+
 
 
