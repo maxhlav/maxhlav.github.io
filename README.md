@@ -24,6 +24,9 @@ Pomona College<br/>
 
 <p>I use they/them pronouns.</p>
 
+<figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%">
+
+
 <hr width="100%"/><hr width="100%"/>
 
 <h2 style="color:dimgrey"><a href="papers.html">research</a> | <a href="talks.html">teaching</a> | <a href="conferences.html">activities</a> </h2>
