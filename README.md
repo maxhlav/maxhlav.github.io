@@ -2,7 +2,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Max Hlavacek</title>
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
