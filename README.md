@@ -8,7 +8,7 @@
 
 
 
-<figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%">
+
 
 
 <h1><a href="README.md">Max Hlavacek</a></h1>
@@ -24,7 +24,7 @@ Pomona College<br/>
 
 <p>I use they/them pronouns.</p>
 
-<figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%">
+
 
 
 <hr width="100%"/><hr width="100%"/>
@@ -33,6 +33,6 @@ Pomona College<br/>
 
 <hr width="100%"/><hr width="100%"/>
 
-
+<figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%">
 
 
