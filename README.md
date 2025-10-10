@@ -12,12 +12,16 @@
 
 <p><i>
 e-mail: <a href="mailto:mhap2023@pomona.edu">mhap2023@pomona.edu</a><br/>
-office: Estella 2339<br/><br/>
-Department of Mathematics and Statistics<br/>
-Pomona College<br/>
+office: Estella 2339<br/>
 
+Visiting Assistant Professor<br/>
+Department of Mathematics and Statistics<br/>
+Pomona College<br/><br/>
+
+e-mail: <a href="mailto:mhap2023@pomona.edu">mhap2023@pomona.edu</a><br/>
+office: Estella 2339<br/>
 </i></p>
-<p>Hi there!  I am a visiting assistant professor at Pomona College.  I am primarily interested in discrete geometry and geometric combinatorics, including topics such as lattice point enumeration and Ehrhart theory. I love to talk about math with students, so please do not hesitate to email me! </p>
+<p>Hi there! I am primarily interested in discrete geometry and geometric combinatorics, including topics such as lattice point enumeration and Ehrhart theory. I love to talk about math with students, so please do not hesitate to email me! </p>
 
 <p>I use they/them pronouns.</p>
 
