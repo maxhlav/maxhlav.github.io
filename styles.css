@@ -7,8 +7,8 @@
 	table{border:1pt solid dimgrey;border-collapse:collapse}
 	th,td{padding-left:5pt;padding-right:7pt;padding-top:3pt;padding-bottom:3pt;text-align:left;border-right:1pt solid dimgrey;border-left:1pt solid dimgrey}
 	tr.border {border-bottom:1pt solid dimgrey}
-	a:link {color:darkslateblue;text-decoration:none}
-	a:visited {color:darkslateblue;text-decoration:none}
+	a:link {color:eucalyptus;text-decoration:none}
+	a:visited {color:eucalyptus;text-decoration:none}
 	a.selected:link {color:black;text-decoration:none}
 	a.selected:visited {color:black;text-decoration:none}
 
