@@ -9,11 +9,7 @@
 
 
 <h1><a href="README.md">Max Hlavacek</a></h1>
-
 <p><i>
-e-mail: <a href="mailto:mhap2023@pomona.edu">mhap2023@pomona.edu</a><br/>
-office: Estella 2339<br/>
-
 Visiting Assistant Professor<br/>
 Department of Mathematics and Statistics<br/>
 Pomona College<br/><br/>
