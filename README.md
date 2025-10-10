@@ -12,17 +12,17 @@
 
 
 <h1><a href="README.md">Max Hlavacek</a></h1>
-<p>visiting assistant professor at Pomona College<br/>
-student of Matthias Beck</p>
+
 <p><i>
 e-mail: <a href="mailto:mhap2023@pomona.edu">mhap2023@pomona.edu</a><br/>
 office: Estella 2339<br/><br/>
-Department of Mathematics<br/>
+Department of Mathematics and Statistics<br/>
 Pomona College<br/>
 
 </i></p>
-<p>interested in discrete geometry and geometric combinatorics<br/>
-lattice point enumeration, Ehrhart theory</p>
+<p>Hi there!  I am a visiting assistant professor at Pomona College.  I am primarily interested in discrete geometry and geometric combinatorics, including topics such as lattice point enumeration and Ehrhart theory. I love to talk about math with students, so please do not hesitate to email me! </p>
+
+<p>I use they/them pronouns.</p>
 
 <hr width="100%"/><hr width="100%"/>
 
