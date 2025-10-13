@@ -1,10 +1,10 @@
 
 
-<head>
+
 <meta charset="utf-8">
 
 <link rel="stylesheet" href="styles.css">
-</head>
+
 <figure style="float:right;width:25%"><img src="mhlavacek.jpg" alt="" style="width:100%"></figure>
 
 
