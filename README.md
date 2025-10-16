@@ -26,7 +26,7 @@ office: Estella 2339<br/>
 
 <hr width="100%"/><hr width="100%"/>
 
-<h2 style="color:dimgrey"><a href="papers.html">research</a> | <a href="talks.html">teaching</a> | <a href="conferences.html">activities</a> </h2>
+<h2 style="color:dimgrey"><a href="research.html">research</a> | <a href="teaching.html">teaching</a> | <a href="activities.html">activities</a> </h2>
 
 <hr width="100%"/><hr width="100%"/>
 
